@@ -1,0 +1,983 @@
+{
+  "version": 1,
+  "data": {
+    "tests": [
+      {
+        "date": "2024-04-17",
+        "test": "ALT",
+        "value": 85,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "ALT",
+        "value": 51,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "ALT",
+        "value": 29,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "ALT",
+        "value": 50,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "ALT",
+        "value": 73,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "ALP",
+        "value": 147,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "ALP",
+        "value": 114,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "ALP",
+        "value": 83,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "ALP",
+        "value": 91,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "ALP",
+        "value": 110,
+        "approx": false,
+        "unit": "U/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Albumin",
+        "value": 48,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Albumin",
+        "value": 47,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Albumin",
+        "value": 50,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Albumin",
+        "value": 47,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Albumin",
+        "value": 50,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Bilirubin",
+        "value": 6,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Bilirubin",
+        "value": 6,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Bilirubin",
+        "value": 6,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Bilirubin",
+        "value": 8,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Bilirubin",
+        "value": 7,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Haemoglobin",
+        "value": 153,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Haemoglobin",
+        "value": 153,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Haemoglobin",
+        "value": 157,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Haemoglobin",
+        "value": 158,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Haemoglobin",
+        "value": 154,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "White blood cells",
+        "value": 10,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "White blood cells",
+        "value": 7.1,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "White blood cells",
+        "value": 7,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "White blood cells",
+        "value": 7.1,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "White blood cells",
+        "value": 8.1,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Platelets",
+        "value": 232,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Platelets",
+        "value": 275,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Platelets",
+        "value": 264,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Platelets",
+        "value": 205,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Platelets",
+        "value": 245,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Haematocrit",
+        "value": 0.44,
+        "approx": false,
+        "unit": "L/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Haematocrit",
+        "value": 0.46,
+        "approx": false,
+        "unit": "L/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Haematocrit",
+        "value": 0.46,
+        "approx": false,
+        "unit": "L/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Haematocrit",
+        "value": 0.46,
+        "approx": false,
+        "unit": "L/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Haematocrit",
+        "value": 0.45,
+        "approx": false,
+        "unit": "L/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "RBC count",
+        "value": 5.43,
+        "approx": false,
+        "unit": "×10¹²/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "RBC count",
+        "value": 5.46,
+        "approx": false,
+        "unit": "×10¹²/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "RBC count",
+        "value": 5.56,
+        "approx": false,
+        "unit": "×10¹²/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "RBC count",
+        "value": 5.53,
+        "approx": false,
+        "unit": "×10¹²/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "RBC count",
+        "value": 5.44,
+        "approx": false,
+        "unit": "×10¹²/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "MCV",
+        "value": 81.6,
+        "approx": false,
+        "unit": "fL"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "MCV",
+        "value": 84.8,
+        "approx": false,
+        "unit": "fL"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "MCV",
+        "value": 83.5,
+        "approx": false,
+        "unit": "fL"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "MCV",
+        "value": 83.2,
+        "approx": false,
+        "unit": "fL"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "MCV",
+        "value": 81.8,
+        "approx": false,
+        "unit": "fL"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "MCH",
+        "value": 28.2,
+        "approx": false,
+        "unit": "pg"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "MCH",
+        "value": 28.0,
+        "approx": false,
+        "unit": "pg"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "MCH",
+        "value": 28.2,
+        "approx": false,
+        "unit": "pg"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "MCH",
+        "value": 28.6,
+        "approx": false,
+        "unit": "pg"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "MCH",
+        "value": 28.3,
+        "approx": false,
+        "unit": "pg"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "MCHC",
+        "value": 345,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "MCHC",
+        "value": 330,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "MCHC",
+        "value": 338,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "MCHC",
+        "value": 343,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "MCHC",
+        "value": 346,
+        "approx": false,
+        "unit": "g/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "RDW",
+        "value": 12.5,
+        "approx": false,
+        "unit": "%"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "RDW",
+        "value": 12.8,
+        "approx": false,
+        "unit": "%"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "RDW",
+        "value": 12.6,
+        "approx": false,
+        "unit": "%"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "RDW",
+        "value": 12.4,
+        "approx": false,
+        "unit": "%"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "RDW",
+        "value": 11.9,
+        "approx": false,
+        "unit": "%"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Lymphocytes",
+        "value": 4.5,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Lymphocytes",
+        "value": 3.8,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Lymphocytes",
+        "value": 3.5,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Lymphocytes",
+        "value": 3,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Lymphocytes",
+        "value": 3.7,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Monocytes",
+        "value": 0.8,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Monocytes",
+        "value": 0.5,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Monocytes",
+        "value": 0.4,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Monocytes",
+        "value": 0.5,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Monocytes",
+        "value": 0.6,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Eosinophils",
+        "value": 0.5,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Eosinophils",
+        "value": 0.3,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Eosinophils",
+        "value": 0.3,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Eosinophils",
+        "value": 0.2,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Eosinophils",
+        "value": 0.4,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Basophils",
+        "value": 0.1,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Basophils",
+        "value": 0,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Basophils",
+        "value": 0,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Basophils",
+        "value": 0.1,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Basophils",
+        "value": 0.1,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Nucleated RBC",
+        "value": 0,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Nucleated RBC",
+        "value": 0,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Nucleated RBC",
+        "value": 0,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Nucleated RBC",
+        "value": 0,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Nucleated RBC",
+        "value": 0,
+        "approx": false,
+        "unit": "×10⁹/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Creatinine",
+        "value": 75,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Creatinine",
+        "value": 77,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Creatinine",
+        "value": 76,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Creatinine",
+        "value": 71,
+        "approx": false,
+        "unit": "µmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Sodium",
+        "value": 140,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Sodium",
+        "value": 139,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Sodium",
+        "value": 137,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Potassium",
+        "value": 4.2,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Potassium",
+        "value": 3.8,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Potassium",
+        "value": 4.7,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Chloride",
+        "value": 100,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Chloride",
+        "value": 100,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Chloride",
+        "value": 100,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "eGFR",
+        "value": 90,
+        "approx": true,
+        "unit": "mL/min/1.73m²"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "eGFR",
+        "value": 90,
+        "approx": true,
+        "unit": "mL/min/1.73m²"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "eGFR",
+        "value": 90,
+        "approx": true,
+        "unit": "mL/min/1.73m²"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "HbA1c",
+        "value": 61,
+        "approx": false,
+        "unit": "mmol/mol"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "HbA1c",
+        "value": 61,
+        "approx": false,
+        "unit": "mmol/mol"
+      },
+      {
+        "date": "2024-10-22",
+        "test": "HbA1c",
+        "value": 45,
+        "approx": false,
+        "unit": "mmol/mol"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "HbA1c",
+        "value": 41,
+        "approx": false,
+        "unit": "mmol/mol"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "HbA1c",
+        "value": 53,
+        "approx": false,
+        "unit": "mmol/mol"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "HbA1c",
+        "value": 63,
+        "approx": false,
+        "unit": "mmol/mol"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Triglycerides",
+        "value": 5.46,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Triglycerides",
+        "value": 3.23,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Triglycerides",
+        "value": 5.81,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Triglycerides",
+        "value": 3.2,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "HDL",
+        "value": 0.7,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "HDL",
+        "value": 0.8,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "HDL",
+        "value": 0.9,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "HDL",
+        "value": 0.7,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "HDL",
+        "value": 0.8,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "LDL",
+        "value": 3.2,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "LDL",
+        "value": 2.9,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "LDL",
+        "value": 1.8,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-04-16",
+        "test": "Total cholesterol",
+        "value": 5.5,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Total cholesterol",
+        "value": 6.2,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Total cholesterol",
+        "value": 5.5,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Total cholesterol",
+        "value": 5.9,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Total cholesterol",
+        "value": 5.9,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Total cholesterol",
+        "value": 3.8,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-04-17",
+        "test": "Non-HDL cholesterol",
+        "value": 5.5,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2024-05-15",
+        "test": "Non-HDL cholesterol",
+        "value": 4.7,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2025-05-19",
+        "test": "Non-HDL cholesterol",
+        "value": 5,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-06-23",
+        "test": "Non-HDL cholesterol",
+        "value": 5.2,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Non-HDL cholesterol",
+        "value": 3,
+        "approx": false,
+        "unit": "mmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "Free T4",
+        "value": 18.4,
+        "approx": false,
+        "unit": "pmol/L"
+      },
+      {
+        "date": "2026-11-02",
+        "test": "TSH",
+        "value": 3.73,
+        "approx": false,
+        "unit": "mU/L"
+      }
+    ],
+    "daily": [
+      {
+        "date": "2026-11-09",
+        "weight": 70.95,
+        "waist": 100,
+        "walk": null,
+        "notes": "Measured weight. Height 170.2 cm; BMI approximately 24.5. Metformin 500 mg morning and 1000 mg evening; atorvastatin 20 mg daily. No alcohol. Waist/belly circumference 100 cm (measurement location not yet confirmed)."
+      }
+    ],
+    "meds": {}
+  },
+  "import_notes": {
+    "source": "NHS app screenshots shared in chat, manually transcribed",
+    "warning": "Verify against original NHS results; this file is sensitive, unencrypted JSON. Import replaces existing app records.",
+    "missing": "AST, GGT, urine ACR, ferritin not supplied",
+    "egfr": "Values displayed as >90; stored as 90 with approx=true because existing app schema supports numeric values only.",
+    "dates": "April 2024 lipid and HbA1c dates follow displayed NHS history."
+  }
+}
